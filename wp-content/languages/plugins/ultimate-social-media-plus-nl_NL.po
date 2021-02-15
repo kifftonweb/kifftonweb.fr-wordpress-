@@ -1,0 +1,1254 @@
+# Translation of Plugins - Social Share Icons &amp; Social Share Buttons - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Social Share Icons &amp; Social Share Buttons - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-20 10:13:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Social Share Icons &amp; Social Share Buttons - Stable (latest release)\n"
+
+#: views/sfsi_option_view8.php:507
+msgid "We also added a Linkedin share-icon in the Premium Plugin."
+msgstr "We hebben in de Premium Plugin ook een LinkedIn share-icon toegevoegd."
+
+#: views/sfsi_pop_content.php:33
+msgid "We will treat your data (and your subscribers’ data!) highly confidentially, see our "
+msgstr "Wij gaan vertrouwelijk om met je data."
+
+#: views/sfsi_pop_content.php:36
+msgid "If you already have an account, please "
+msgstr "Heb je al een account ?"
+
+#: views/sfsi_pop_content.php:33
+msgid "Privacy Policy"
+msgstr "Privacy beleid"
+
+#: views/sfsi_option_view9.php:104
+msgid "click here."
+msgstr "Klik hier."
+
+#: views/sfsi_pop_content.php:33
+msgid "This will create your FREE acccount on "
+msgstr "Maak hier GRATIS een account aan"
+
+#: views/sfsi_pop_content.php:29
+msgid "Give me access!"
+msgstr "Geef mij toegang."
+
+#: views/subviews/que4/animatethem.php:43
+msgid "Scale"
+msgstr "Schaal"
+
+#: libs/sfsi_install_uninstall.php:1291
+msgid "Error: Please fix your theme to make plugins work correctly. Go to the Theme Editor and insert the following string as the first line of your theme's footer.php file: "
+msgstr "Fout: Fiks je thema zodat plug-ins correct werken. Ga naar de Thema editor en voeg de volgende tekst in als de eerste regel van het footer.php bestand van je thema."
+
+#: views/sfsi_option_view8.php:351
+msgid "Place the following string into your theme codes: "
+msgstr "Plaats de volgende tekst in je thema codes:"
+
+#: views/sfsi_option_view8.php:355
+msgid "Or use the shortcode [DISPLAY_ULTIMATE_PLUS] to display them wherever you want."
+msgstr "Of gebruik de stortcode [DISPLAY_ULTIMATE_PLUS] om ze op een plek te tonen waar jij dat wil."
+
+#: libs/sfsi_install_uninstall.php:1266
+msgid "Error : Please fix your theme to make plugins work correctly. Go to the Theme Editor and insert the following string:"
+msgstr "Fout: Fiks je thema zodat plug-ins correct werken. Ga naar de Thema editor en voeg de volgende tekst in:"
+
+#: libs/sfsi_install_uninstall.php:1266
+msgid "Please enter it just before the following line of your header.php file:"
+msgstr "Voeg het juist voor de volgende regel van je header.php bestand in: "
+
+#: libs/sfsi_install_uninstall.php:1266 libs/sfsi_install_uninstall.php:1291
+msgid "Go to your theme editor: "
+msgstr "Ga naar he Thema editor:"
+
+#: views/sfsi_option_view1.php:271
+msgid "Visit Houzz"
+msgstr "Bezoek Houzz"
+
+#: views/sfsi_option_view1.php:77
+msgid "RSS stands for Really Simply Syndication and is an easy way for people to read your content. "
+msgstr "RSS is de afkorting van Really Simply Syndication en is een gemakkelijke manier voor mensen om je content te lezen."
+
+#: views/sfsi_option_view1.php:79
+msgid "Learn more about RSS"
+msgstr "Meer informatie over RSS"
+
+#: views/sfsi_option_view1.php:113
+msgid "Everybody uses email – that’s why it’s much more effective than social media to make people follow you"
+msgstr "Iedereen gebruikt e-mail - daarom is het effectiever dan social media om mensen jou te laten volgen"
+
+#: views/sfsi_options_view.php:260
+msgid "Visit us on ultimatelysocial.com"
+msgstr "Bezoek ons op ultimatelysocial.com"
+
+#: views/sfsi_option_view5.php:499 views/sfsi_option_view8.php:539
+msgid "Size and spacing of your icons"
+msgstr "Grootte en onderlinge afstand van je icons"
+
+#: views/sfsi_option_view5.php:507 views/sfsi_option_view8.php:545
+msgid "pixels wide and tall"
+msgstr "pixels breed en hoog"
+
+#: views/sfsi_option_view7.php:167
+msgid "Text and Design"
+msgstr "Tekst en ontwerp"
+
+#: views/sfsi_option_view7.php:259
+msgid "Background Color:"
+msgstr "Achtergrondkleur:"
+
+#: views/sfsi_option_view7.php:281
+msgid "Border Shadow:"
+msgstr "Rand schaduw:"
+
+#: views/sfsi_option_view8.php:324
+msgid "Go to the widget area and drag & drop it where you want to have it!"
+msgstr "Ga naar je widget gebied en sleep en zet neer waar je het wil hebben!"
+
+#: views/sfsi_option_view5.php:494
+msgid "Drag and Drop"
+msgstr "Verslepen"
+
+#: views/sfsi_option_view9.php:132
+msgid "Go to the widget settings and drag and drop it to the sidebar:"
+msgstr "Ga naar de widget instellingen en versleep het naar de zijbalk:"
+
+#: views/sfsi_option_view4.php:175
+msgid "It’s a psychological fact that people like to follow other people, so when they see that your site has already a good number of Facebook likes, it’s more likely that they will subscribe/like/share your site than if it had 0."
+msgstr "Het is een psychologisch gegeven dat mensen elkaar volgen, dus als ze zien dat je site al een aantal Facebook volgers heeft is de kans groter dat ze je site abonneren/liken/delen dan wanneer je site 0 heeft."
+
+#: views/sfsi_option_view4.php:178
+msgid "Therefore, you can select to display the count next to your icons which will look like this:"
+msgstr "Daarom kun je kiezen om de teller naast je icon te tonen, wat er zo uitziet:"
+
+#: views/sfsi_option_view3.php:42
+msgid "It comes across as more professional and gives your site more “credit”"
+msgstr "Het komt over als professioneler en geeft je site meer “status”"
+
+#: views/sfsi_option_view3.php:50
+msgid "The icons have been compressed by Shortpixel.com for faster loading of your site. Thank you Shortpixel!"
+msgstr "The icons zijn gecomprimeerd door Shortpixel.com om je site sneller te laden. Dank je, Shortpixel!"
+
+#: views/sfsi_pop_content.php:36 libs/sfsi_install_uninstall.php:1266
+#: libs/sfsi_install_uninstall.php:1291
+msgid "click here"
+msgstr "klik hier"
+
+#: views/sfsi_option_view2.php:206
+msgid "For most blogs it’s http://blogname.com/feed"
+msgstr "Voor de meeste blogs is het http://blognaam.com/feed"
+
+#: libs/sfsi_widget.php:107
+msgid "Please go to the plugin page to set your preferences:"
+msgstr "Ga naar de plug-in pagina om je voorkeuren in te stellen:"
+
+#: views/sfsi_option_view8.php:326 views/sfsi_option_view9.php:134
+#: libs/sfsi_install_uninstall.php:1302 libs/sfsi_widget.php:108
+msgid "Click here"
+msgstr "Klik hier"
+
+#: libs/sfsi_install_uninstall.php:1302
+msgid "Thank you for installing the Ultimate Social Media PLUS plugin. Please go to the plugin's settings page to configure it: "
+msgstr "Dank je wel voor het installeren van de Ultimate Social Media PLUS plug-in. Ga naar de instellingen pagina om het te configureren."
+
+#: views/sfsi_pop_content.php:423
+msgid "Click on << Insert into post >>"
+msgstr "Klik op <<Invoegen in bericht>>"
+
+#: views/sfsi_pop_content.php:64 views/sfsi_pop_content.php:417
+msgid "Click on << Upload >> below"
+msgstr "Klik op <<Upload>> hieronder"
+
+#: views/sfsi_pop_content.php:70
+msgid "Click on << Insert into post >> "
+msgstr "Klik op <<Invoegen in bericht>>"
+
+#: views/sfsi_pop_content.php:350
+msgid "Note: Also if you already offer a newsletter it makes sense to offer this option too, because it will get you more readers as explained"
+msgstr "NB: Als je al een nieuwsbrief aanbiedt is het toch zinvol om deze optie te bieden, omdat je zoals uitgelegd meer lezers krijgt"
+
+#: views/sfsi_pop_content.php:357
+msgid "Ok, keep it active for the time being, I want to see how it works"
+msgstr "Ok, laat voorlopig actief, ik wil zien hoe het werkt"
+
+#: views/sfsi_option_view9.php:130
+msgid "Widget:"
+msgstr "Widget:"
+
+#: views/sfsi_option_view9.php:139
+msgid "Shortcode:"
+msgstr "Stortcode:"
+
+#: views/sfsi_option_view8.php:269
+msgid "Top:"
+msgstr "Boven:"
+
+#: views/sfsi_option_view4.php:456
+msgid "Go to"
+msgstr "Ga naar"
+
+#: views/sfsi_option_view4.php:365
+msgid "Retrieve the number of likes of your blog"
+msgstr "Haal het aantal likes van je blog op"
+
+#: views/sfsi_option_view4.php:373
+msgid "page ID:"
+msgstr "pagina ID:"
+
+#: views/sfsi_option_view4.php:448
+msgid "Please make sure you have entered the Username for \"Follow me on Twitter:\" in twitter settings under question number 2."
+msgstr "Zorg er voor dat je de gebruikersnaam voor “Volg me op Twitter:” in de Twitter instellingen onder vraag 2 hebt ingevoerd."
+
+#: views/sfsi_option_view3.php:45
+msgid "A smart automatic animation can make your visitors aware of your icons in an unintrusive manner"
+msgstr "Een slimme automatische animatie kan je bezoekers van je icons bewust maken zonder opdringerig te zijn"
+
+#: views/sfsi_option_view2.php:564
+msgid "You find your ID in the link of your profile page, e.g. https://www.linkedin.com/profile/view?id=<b>8539887</b>&trk=nav_responsive_tab_profile_pic"
+msgstr "Je vindt je ID inde link van je profielpagina, bijv https://www.linkedin.com/profile/view?id=<b>8539887</b>&trk=nav_responsive_tab_profile_pic"
+
+#: views/sfsi_aboutus.php:4
+msgid "or write to us at"
+msgstr "of schrijf ons naar"
+
+#: ultimate_social_media_icons.php:138
+msgid "Kindly go to setting page and check the option \"Place them manually\""
+msgstr "Ga naar de Instellingen en activeer de optie “Plaats ze handmatig”"
+
+#: libs/sfsi_install_uninstall.php:1311
+msgid "You`re using an old Wordpress version, which may cause several of your plugins to not work correctly. Please upgrade"
+msgstr "Je gebruikt een oude Wordpress versie waardoor sommige plug-ins wellicht niet (goed) werken. Installeer een nieuwe versie"
+
+#: libs/sfsi_install_uninstall.php:1357
+msgid "I already did"
+msgstr "Heb ik al gedaan"
+
+#: libs/sfsi_install_uninstall.php:1149
+msgid "Error: It seems that CURL is disabled on your server. Please contact your server administrator to install / enable CURL."
+msgstr "Fout: Het lijkt er op dat CURL niet actief is op je server. Neem contact op met je server beheerder om CURL te installeren / activeren."
+
+#: libs/sfsi_Init_JqueryCss.php:55
+msgid "Saving"
+msgstr "Opslaan"
+
+#: libs/sfsi_Init_JqueryCss.php:56
+msgid "Saved"
+msgstr "Opgeslagen"
+
+#: views/sfsi_option_view5.php:629
+msgid "Language & Button-text"
+msgstr "Taal en Knop-tekst"
+
+#: views/sfsi_option_view5.php:634
+msgid "Follow-button:"
+msgstr "Volgen-Knop:"
+
+#: views/sfsi_option_view5.php:655
+msgid "Facebook «Visit»-icon:"
+msgstr "Facebook «Bezoek»-icon:"
+
+#: views/sfsi_option_view5.php:676
+msgid "Twitter «Visit»-icon:"
+msgstr "Twitter «Bezoek»-icon:"
+
+#: views/sfsi_option_view4.php:561
+msgid "Enter Youtube Channel id"
+msgstr "Invoer Youtube Kanaal ID"
+
+#: views/sfsi_pop_content.php:764
+msgid "I'm done!"
+msgstr "Ik ben klaar!"
+
+#: views/sfsi_pop_content.php:67 views/sfsi_pop_content.php:420
+msgid "Upload the icon into the media gallery"
+msgstr "Upload het icon naar je media galerij"
+
+#: views/sfsi_pop_content.php:210
+msgid "Move over the Facebook-icon…"
+msgstr "Beweeg over het Facebook icon…"
+
+#: views/sfsi_pop_content.php:245
+msgid "Move over the Twitter-icon…"
+msgstr "Beweeg over het Twitter icon…"
+
+#: views/sfsi_pop_content.php:274
+msgid "Move over the YouTube-icon…"
+msgstr "Beweeg over het YouTube icon…"
+
+#: views/sfsi_pop_content.php:297
+msgid "Move over the Pinterest-icon…"
+msgstr "Beweeg over het Pinterest icon…"
+
+#: views/sfsi_pop_content.php:326
+msgid "Move over the LinkedIn-icon…"
+msgstr "Beweeg over het LinkedIn icon…"
+
+#: views/sfsi_pop_content.php:361
+msgid "Deactivate it"
+msgstr "Deactiveer het"
+
+#: views/sfsi_pop_content.php:395
+msgid "Ok, activate link"
+msgstr "Ok, actieveer link"
+
+#: views/sfsi_pop_content.php:411
+msgid "Upload custom icons"
+msgstr "Upload aangepaste icons"
+
+#: views/sfsi_pop_content.php:414
+msgid "Here you can upload custom icons which perform the same actions as the standard icons."
+msgstr "Hier kun je aangepaste icons uploaded die de zelfde acties uitvoeren als de standaard icons."
+
+#: views/sfsi_options_view.php:175
+msgid "What design and animation do you want to give your icons?"
+msgstr "Welk ontwerp en animatie wil je je icons geven?"
+
+#: views/sfsi_options_view.php:182
+msgid "Do you want to display \"counts\" next to your main icons?"
+msgstr "Wil je tellers tonen naast je belangrijkste icons?"
+
+#: views/sfsi_options_view.php:189
+msgid "Any other wishes for your main icons?"
+msgstr "Nog andere wensen voor je belangrijkste icons?"
+
+#: views/sfsi_options_view.php:202
+msgid "Do you want to display a pop-up, asking people to subscribe?"
+msgstr "Wil je een pop-up tonen die gebruikers vraagt om zich te abonneren?"
+
+#: views/sfsi_options_view.php:209
+msgid "Do you want to show a subscription form (increases sign ups)?"
+msgstr "Wil je een aanmeldingsformulier tonen (verhoogt de aanmeldingen)?"
+
+#: views/sfsi_options_view.php:258
+msgid "Need top-notch Wordpress development work at a competitive price?"
+msgstr "Heb je eersteklas Wordpress ontwikkelwerk tegen een redelijke prijs nodig?"
+
+#: views/sfsi_pop_content.php:60
+msgid "Steps:"
+msgstr "Stappen:"
+
+#: views/sfsi_option_view9.php:685
+msgid "Left Align"
+msgstr "Links uitlijnen"
+
+#: views/sfsi_option_view9.php:691
+msgid "Right Align"
+msgstr "Rechts uitlijnen"
+
+#: views/sfsi_options_view.php:9
+msgid "We found errors in your javascript which may cause the plugin to not work properly. Please fix the error:"
+msgstr "We hebben fouten in je javascript gevonden die er voor kunnen zorgen dat de plug-in niet goed werkt. Corrigeer de fout:"
+
+#: views/sfsi_options_view.php:75
+msgid "Welcome to the Ultimate Social Media Icons PLUS plugin!"
+msgstr "Welkom bij de Ultimate Social Media Icons PLUS plug-in!"
+
+#: views/sfsi_options_view.php:157
+msgid "What do you want the icons to do?"
+msgstr "Wat moeten de icons doen?"
+
+#: views/sfsi_options_view.php:164
+msgid "Where shall they be displayed?"
+msgstr "Waar moeten ze worden getoond?"
+
+#: views/sfsi_options_view.php:170
+msgid "Optional"
+msgstr "Optioneel"
+
+#: views/sfsi_option_view9.php:675
+msgid "Bold"
+msgstr "Vetgedrukt"
+
+#: views/sfsi_option_view9.php:386 views/sfsi_option_view9.php:451
+#: views/sfsi_option_view9.php:543
+msgid "Alignment:"
+msgstr "Uitlijning:"
+
+#: views/sfsi_option_view9.php:399
+msgid "Entry field"
+msgstr "Invoerveld"
+
+#: views/sfsi_option_view9.php:476
+msgid "Subscribe button"
+msgstr "Abonneer knop"
+
+#: views/sfsi_option_view9.php:552
+msgid "Button color:"
+msgstr "Knop kleur:"
+
+#: views/sfsi_option_view9.php:283
+msgid "Color"
+msgstr "Kleur"
+
+#: views/sfsi_option_view9.php:372 views/sfsi_option_view9.php:458
+#: views/sfsi_option_view9.php:529
+msgid "Font size"
+msgstr "Font grootte"
+
+#: views/sfsi_option_view9.php:298
+msgid "Background color:"
+msgstr "Achtergrondkleur:"
+
+#: views/sfsi_option_view9.php:350
+msgid " Font style:"
+msgstr "Font stijl:"
+
+#: views/sfsi_option_view9.php:359 views/sfsi_option_view9.php:516
+msgid "Font color"
+msgstr "Font kleur"
+
+#: views/sfsi_option_view9.php:237
+msgid "Width"
+msgstr "Breedte"
+
+#: views/sfsi_option_view9.php:249
+msgid "Border?"
+msgstr "Rand?"
+
+#: views/sfsi_option_view9.php:272
+msgid "Thickness"
+msgstr "Dikte"
+
+#: views/sfsi_option_view8.php:663 views/sfsi_option_view8.php:694
+#: views/sfsi_option_view8.php:722 views/sfsi_option_view9.php:232
+#: views/sfsi_option_view9.php:242 views/sfsi_option_view9.php:278
+#: views/sfsi_option_view9.php:378 views/sfsi_option_view9.php:464
+#: views/sfsi_option_view9.php:535
+msgid "pixels"
+msgstr "pixels"
+
+#: views/sfsi_option_view5.php:640 views/sfsi_option_view5.php:661
+#: views/sfsi_option_view5.php:682 views/sfsi_option_view9.php:111
+msgid "Preview:"
+msgstr "Voorbeeld:"
+
+#: views/sfsi_option_view9.php:226
+msgid "Height"
+msgstr "Hoogte"
+
+#: views/sfsi_option_view9.php:124
+msgid "You can place the form by different methods:"
+msgstr "Je kunt het formulier op verschillende manieren plaatsen:"
+
+#: views/sfsi_option_view9.php:142
+msgid "Use the shortcode"
+msgstr "gebruik de shortcode"
+
+#: views/sfsi_option_view9.php:146
+msgid "to place it into your codes"
+msgstr "om het in je codes te plaatsen"
+
+#: views/sfsi_option_view9.php:150
+msgid "Copy & paste HTML code:"
+msgstr "Knip en plak HTML code:"
+
+#: views/sfsi_option_view9.php:164 views/sfsi_option_view9.php:703
+msgid "Get new posts by email:"
+msgstr "Krijg nieuwe berichten per email:"
+
+#: views/sfsi_option_view9.php:188
+msgid "Define text & design (optional)"
+msgstr "Definieer tekst en ontwerp (optioneel)"
+
+#: views/sfsi_option_view9.php:191
+msgid "Overall size & border"
+msgstr "Totale grootte en rand"
+
+#: views/sfsi_option_view8.php:207
+msgid "Bottom right"
+msgstr "Onder rechts"
+
+#: views/sfsi_option_view8.php:264
+msgid "Margin From:"
+msgstr "Marge van:"
+
+#: views/sfsi_option_view8.php:278
+msgid "Bottom:"
+msgstr "Onder:"
+
+#: views/sfsi_option_view8.php:287
+msgid "Left:"
+msgstr "Links:"
+
+#: views/sfsi_option_view8.php:296
+msgid "Right:"
+msgstr "Rechts:"
+
+#: views/sfsi_option_view8.php:341
+msgid "Place them manually"
+msgstr "Plaats ze handmatig"
+
+#: views/sfsi_option_view8.php:424
+msgid "Show them before or after posts"
+msgstr "Toon ze voor of na berichten"
+
+#: views/sfsi_option_view8.php:435
+msgid "Here you have two options:"
+msgstr "Hier heb je twee opties:"
+
+#: views/sfsi_option_view8.php:467
+msgid "Select the icons you want to show:"
+msgstr "Kies de icons die je wil tonen:"
+
+#: views/sfsi_option_view8.php:793
+msgid "Display them:"
+msgstr "Toon ze:"
+
+#: views/sfsi_option_view8.php:796
+msgid "On Post Pages"
+msgstr "Op Berichten pagina’s"
+
+#: views/sfsi_option_view8.php:802 views/sfsi_option_view8.php:824
+msgid "Before posts"
+msgstr "Voor berichten"
+
+#: views/sfsi_option_view8.php:808 views/sfsi_option_view8.php:830
+msgid "After posts"
+msgstr "Na berichten"
+
+#: views/sfsi_option_view8.php:818
+msgid "On Homepage"
+msgstr "Op de homepage"
+
+#: views/sfsi_option_view8.php:862
+msgid "Center"
+msgstr "Midden"
+
+#: views/sfsi_option_view8.php:158
+msgid "Top left"
+msgstr "Boven links"
+
+#: views/sfsi_option_view8.php:172
+msgid "Top right"
+msgstr "Boven rechts"
+
+#: views/sfsi_option_view8.php:193
+msgid "Bottom left"
+msgstr "Onder links"
+
+#: views/sfsi_option_view7.php:303
+msgid "Where shall the pop-up be shown?"
+msgstr "Waar moet de pop-up getoond worden?"
+
+#: views/sfsi_option_view7.php:308
+msgid "Nowhere"
+msgstr "Nergens"
+
+#: views/sfsi_option_view7.php:314
+msgid "On every page"
+msgstr "Op elke pagina"
+
+#: views/sfsi_option_view7.php:320
+msgid "On blog posts only"
+msgstr "Alleen op blog berichten"
+
+#: views/sfsi_option_view7.php:326
+msgid "On selected pages only"
+msgstr "Alleen op bepaalde pagina’s"
+
+#: views/sfsi_option_view7.php:377
+msgid "When shall the pop-up be shown?"
+msgstr "Wanneer moet de pop-up getoond worden?"
+
+#: views/sfsi_option_view7.php:382
+msgid "Once"
+msgstr "Eenmalig"
+
+#: views/sfsi_option_view7.php:384
+msgid "seconds after the user arrived on the site"
+msgstr "seconden nadat de gebruiker op de site is gekomen"
+
+#: views/sfsi_option_view8.php:314
+msgid "Show them via a widget"
+msgstr "Toon ze via een widget"
+
+#: views/sfsi_option_view8.php:179
+msgid "Center left"
+msgstr "Midden Links"
+
+#: views/sfsi_option_view8.php:186
+msgid "Center right"
+msgstr "Midden rechts"
+
+#: views/sfsi_option_view7.php:287
+msgid "On"
+msgstr "Aan"
+
+#: views/sfsi_option_view7.php:293
+msgid "Off"
+msgstr "Uit"
+
+#: views/sfsi_option_view7.php:265
+msgid "Border Color:"
+msgstr "Rand kleur:"
+
+#: views/sfsi_option_view7.php:243
+msgid "Font color:"
+msgstr "Font kleur"
+
+#: views/sfsi_option_view7.php:248
+msgid "Font size:"
+msgstr "Font grootte"
+
+#: views/sfsi_option_view7.php:255
+msgid "Icon Box Layout"
+msgstr "Icon Box lay-out"
+
+#: views/sfsi_option_view9.php:666
+msgid "Inherit"
+msgstr "Ge-erft"
+
+#: views/sfsi_option_view9.php:672
+msgid "Italic"
+msgstr "Italic"
+
+#: views/sfsi_option_view9.php:663
+msgid "Normal"
+msgstr "Normaal"
+
+#: views/sfsi_option_view7.php:224 views/sfsi_option_view9.php:430
+#: views/sfsi_option_view9.php:507
+msgid "Font style:"
+msgstr "Font stijl:"
+
+#: views/sfsi_option_view7.php:178 views/sfsi_option_view9.php:344
+#: views/sfsi_option_view9.php:424 views/sfsi_option_view9.php:501
+msgid "Font:"
+msgstr "Font:"
+
+#: views/sfsi_option_view8.php:520 views/sfsi_option_view6.php:96
+msgid "NO"
+msgstr "NEE"
+
+#: views/sfsi_option_view7.php:174 views/sfsi_option_view9.php:331
+#: views/sfsi_option_view9.php:411 views/sfsi_option_view9.php:488
+msgid "Text:"
+msgstr "Tekst:"
+
+#: libs/controllers/sfsi_frontpopUp.php:119
+msgid "Enjoy this site? Please follow and like us!"
+msgstr "Bevalt deze site? Volg en Like ons aub!"
+
+#: views/sfsi_option_view7.php:171
+msgid "Text Options"
+msgstr "Tekst opties"
+
+#: views/sfsi_option_view6.php:73
+msgid "Options:"
+msgstr "Opties:"
+
+#: views/sfsi_option_view8.php:517 views/sfsi_option_view6.php:94
+msgid "YES"
+msgstr "JA"
+
+#: views/sfsi_option_view6.php:40
+msgid "Those are usually all you need:"
+msgstr "Normaliter zijn deze alles wat je nodig hebt:"
+
+#: views/sfsi_option_view6.php:44
+msgid "Facebook is No.1 in liking, so it’s a must have"
+msgstr "Facebook is nummer 1 met Liken, dus deze is noodzakelijk"
+
+#: views/sfsi_option_view6.php:48
+msgid "Share-button covers all other platforms for sharing"
+msgstr "Delen-knoppen dekken alle andere platforms voor delen"
+
+#: views/sfsi_option_view8.php:599 views/sfsi_option_view6.php:53
+msgid "So: do you want to display those at the end of every post?"
+msgstr "Dus… Wil je deze tonen aan het eind van elk bericht?"
+
+#: views/sfsi_option_view8.php:840 views/sfsi_option_view6.php:77
+msgid "Text to appear before the sharing icons:"
+msgstr "Tekst om te tonen voor de Delen icons:"
+
+#: views/sfsi_option_view8.php:851 views/sfsi_option_view6.php:82
+msgid "Alignment of share icons:"
+msgstr "Uitwijzing van de Delen icons:"
+
+#: views/sfsi_option_view8.php:512 views/sfsi_option_view6.php:92
+msgid "Do you want to display the counts?"
+msgstr "Wil je de tellers tonen?"
+
+#: views/sfsi_option_view5.php:896
+msgid "Sticking & Disable on mobile"
+msgstr "Vastplakken en Uitschakelen op mobiel"
+
+#: views/sfsi_option_view5.php:899
+msgid "If you decided to show your icons via a widget, you can add the effect that when the user scrolls down, the icons will stick at the  top of the screen so that they are still displayed even if the user scrolled all the way down. Do you want to do that?"
+msgstr "Als je besluit om je icons via een widget te tonen , kun je het effect toevoegen dat wanneer de gebruiker naar beneden rolt, de icons boven op het scherm blijven zodat ze nog getoond worden ook al rolt de gebruiker helemaal naar beneden. Wil je dat doen?"
+
+#: views/sfsi_option_view5.php:922
+msgid "Disable float icons on mobile devices"
+msgstr "Zwevende icons uitschakelen op mobiele apparaten"
+
+#: views/sfsi_option_view5.php:944
+msgid "Disable auto-scaling feature for mobile devices (\"viewport\" meta tag)"
+msgstr "Auto-Scaling uitschakelen op mobiele apparaten (“viewport” meta tag)"
+
+#: views/sfsi_option_view5.php:968
+msgid "Mouseover text"
+msgstr "Muis-over tekst"
+
+#: views/sfsi_option_view5.php:971
+msgid "If you’ve given your icon only one function (i.e. no pop-up where user can perform different actions) then you can define here what text will be displayed if a user moves his mouse over the icon:"
+msgstr "Als je je icon maar een functie hebt gegeven (dus geen pop-up waarbij een gebruiker verschillende acties kan uitvoeren) dan kun je hier opgeven welke tekst getoond wordt als een gebruiker zijn muis over het icon beweegt:"
+
+#: views/sfsi_option_view5.php:562
+msgid "Icons per row:"
+msgstr "Icons per regel:"
+
+#: views/sfsi_option_view5.php:868
+msgid "New window"
+msgstr "Nieuw venster"
+
+#: views/sfsi_option_view5.php:557 views/sfsi_option_view8.php:856
+#: views/sfsi_option_view6.php:85
+msgid "Left"
+msgstr "Links"
+
+#: views/sfsi_option_view5.php:514 views/sfsi_option_view8.php:273
+#: views/sfsi_option_view8.php:282 views/sfsi_option_view8.php:291
+#: views/sfsi_option_view8.php:300 views/sfsi_option_view8.php:549
+msgid "Pixels"
+msgstr "Pixels"
+
+#: views/sfsi_option_view5.php:551 views/sfsi_option_view8.php:755
+#: views/sfsi_option_view9.php:688
+msgid "Centered"
+msgstr "Gecentreerd"
+
+#: views/sfsi_option_view5.php:554 views/sfsi_option_view8.php:859
+#: views/sfsi_option_view6.php:87
+msgid "Right"
+msgstr "Rechts"
+
+#: views/sfsi_option_view5.php:510 views/sfsi_option_view8.php:547
+msgid "Spacing between icons:"
+msgstr "Afstand tussen icons:"
+
+#: views/sfsi_option_view5.php:537
+msgid "Alignments"
+msgstr "Uitlijningen"
+
+#: views/sfsi_option_view5.php:542
+msgid "Alignment of icons:"
+msgstr "Uitlijning van de icons:"
+
+#: views/sfsi_option_view4.php:452
+msgid "To get this information:"
+msgstr "Om deze informatie te krijgen:"
+
+#: views/sfsi_option_view4.php:462
+msgid "Click on \"Create new app\""
+msgstr "Klik op “Maak een nieuwe app”"
+
+#: views/sfsi_option_view4.php:465
+msgid "Enter a random Name, Description and Website URL (including the \"http://\", e.g. http://dummysitename.com)"
+msgstr "Voor een willekeurige Naam, Omschrijving en Website URL in (incl “http://“, bijvoorbeeld http://dummysitenaam.com)"
+
+#: views/sfsi_option_view4.php:468
+msgid "Go to \"Keys and Access Tokens\" tab and click on \"Generate Token\" in the \"Token actions\" section at the bottom"
+msgstr "Ga naar “Sleutels en Toegangstokens” tab en klik op “Maak Token” in de “Token Acties”  sectie beneden"
+
+#: views/sfsi_option_view4.php:471
+msgid "Then click on \"Test OAuth\" at the top right and you will see the 4 token key"
+msgstr "Klik daarna op “Test Oauth” rechtsboven en dan zie je de 4 token sleutel"
+
+#: views/sfsi_option_view4.php:549
+msgid "Retrieve the number of Subscribers"
+msgstr "Haal het aantal Abonnees op"
+
+#: views/sfsi_option_view4.php:554
+msgid "Enter Youtube User name"
+msgstr "Invoer Youtube Gebruikersnaam"
+
+#: views/sfsi_option_view4.php:595
+msgid "Retrieve the number of Pins"
+msgstr "Haal het aantal Pins op"
+
+#: views/sfsi_option_view4.php:634
+msgid "Retrieve the number of Instagram followers"
+msgstr "Haal het aantal Instagram volgers op"
+
+#: views/sfsi_option_view4.php:640
+msgid "Enter Instagram User name"
+msgstr "Invoer Instagram Gebruikersnaam"
+
+#: views/sfsi_option_view5.php:381
+msgid "Order of your icons"
+msgstr "Volgorde van je Icons"
+
+#: views/sfsi_option_view5.php:503 views/sfsi_option_view8.php:543
+msgid "Size:"
+msgstr "Grootte:"
+
+#: views/sfsi_option_view4.php:338 views/sfsi_option_view4.php:383
+#: views/sfsi_option_view4.php:477 views/sfsi_option_view4.php:522
+#: views/sfsi_option_view4.php:568 views/sfsi_option_view4.php:600
+#: views/sfsi_option_view4.php:686 views/sfsi_option_view4.php:715
+#: views/sfsi_option_view4.php:744 views/sfsi_option_view4.php:773
+#: views/sfsi_option_view4.php:802 views/sfsi_option_view4.php:831
+#: views/sfsi_option_view4.php:860
+msgid "Enter the figure manually"
+msgstr "voer het aantal handmatig in"
+
+#: views/sfsi_option_view4.php:417
+msgid "Retrieve the number of Twitter followers"
+msgstr "Haal het aantal Twitter volgers op"
+
+#: views/sfsi_option_view4.php:423
+msgid "Enter Consumer Key"
+msgstr "Invoer “Consumer Key”"
+
+#: views/sfsi_option_view4.php:429
+msgid "Enter Consumer Secret"
+msgstr "Invoer “Consumer Secret”"
+
+#: views/sfsi_option_view4.php:435
+msgid "Enter Access Token"
+msgstr "Invoer “Access Token”"
+
+#: views/sfsi_option_view4.php:441
+msgid "Enter Access Token Secret"
+msgstr "Invoer “Access Token Secret”"
+
+#: views/sfsi_option_view4.php:284
+msgid "Please specify which counts should be shown:"
+msgstr "Specificeer welke tellers getoond moeten worden:"
+
+#: views/sfsi_option_view4.php:306
+msgid "We cannot track this. So enter the figure here:"
+msgstr "We kunnen dit niet traceren. Dus voer hier het aantal in:"
+
+#: views/sfsi_option_view4.php:334
+msgid "Retrieve the number of subscribers automatically"
+msgstr "Haal het aantal abonnees automatisch op"
+
+#: views/sfsi_option_view4.php:276 views/sfsi_option_view5.php:885
+#: views/sfsi_option_view5.php:913 views/sfsi_option_view5.php:934
+#: views/sfsi_option_view5.php:956 views/sfsi_option_view8.php:611
+#: views/sfsi_option_view8.php:782 views/sfsi_option_view6.php:65
+#: views/sfsi_option_view9.php:217 views/sfsi_option_view9.php:263
+msgid "No"
+msgstr "Nee"
+
+#: views/sfsi_option_view4.php:270 views/sfsi_option_view5.php:879
+#: views/sfsi_option_view5.php:907 views/sfsi_option_view5.php:928
+#: views/sfsi_option_view5.php:950 views/sfsi_option_view8.php:605
+#: views/sfsi_option_view8.php:776 views/sfsi_option_view6.php:59
+#: views/sfsi_option_view9.php:210 views/sfsi_option_view9.php:256
+msgid "Yes"
+msgstr "Ja"
+
+#: views/sfsi_option_view4.php:260
+msgid "Of course, if you start at 0, you shoot yourself in the foot with that. So we suggest that you only turn this feature on once you have a good number of followers/likes/shares (min. of 20 – no worries if it’s not too many, it should just not be 0)."
+msgstr "Natuurlijk, als je nog op 0 staat schiet je jezelf hiermee in je voet. Dus we suggereren dat je dit pas inschakelt als je een aantal aantal volgers/likes/delers hebt (tenminste 20 - geen zorgen of dat niet te veel is, als het maar niet 0 is)."
+
+#: views/sfsi_option_view4.php:263
+msgid "Enough waffling. So do you want to display counts?"
+msgstr "Genoeg gebabbel. Dus wil je de tellers laten zien?"
+
+#: views/sfsi_option_view3.php:213
+msgid "Transparent"
+msgstr "Transparant"
+
+#: views/sfsi_option_view3.php:196
+msgid "Shaded Dark"
+msgstr "Donkere met Schaduw"
+
+#: views/sfsi_option_view3.php:204
+msgid "Shaded Light"
+msgstr "Licht met Schaduw"
+
+#: views/sfsi_option_view3.php:214
+msgid "for dark backgrounds"
+msgstr "voor donkere achtergronden"
+
+#: views/sfsi_option_view3.php:226
+msgid "Custom Icons"
+msgstr "Aangepaste icons"
+
+#: views/subviews/que4/animatethem.php:4
+msgid "Animate them (your main icons)"
+msgstr "Animeer ze (je belangrijkste icons)"
+
+#: views/subviews/que4/animatethem.php:10
+msgid "Mouse-Over effects"
+msgstr "Muis-over effecten"
+
+#: views/subviews/que4/animatethem.php:32
+msgid "Fade In"
+msgstr "Verlichten"
+
+#: views/subviews/que4/animatethem.php:58
+msgid "Combo"
+msgstr "Combinatie"
+
+#: views/subviews/que4/animatethem.php:158
+msgid "Shuffle them automatically"
+msgstr "Meng ze automatisch"
+
+#: views/subviews/que4/animatethem.php:171
+msgid "Every"
+msgstr "Elke"
+
+#: views/subviews/que4/animatethem.php:175
+msgid "seconds"
+msgstr "seconden"
+
+#: views/sfsi_option_view3.php:177
+msgid "Black"
+msgstr "Zwart"
+
+#: views/sfsi_option_view3.php:188
+msgid "Silver"
+msgstr "Zilver"
+
+#: views/sfsi_option_view3.php:161
+msgid "Crystal"
+msgstr "Kristal"
+
+#: views/sfsi_option_view3.php:169
+msgid "Glossy"
+msgstr "Glanzend"
+
+#: views/sfsi_option_view3.php:95
+msgid "Thin"
+msgstr "Dun"
+
+#: views/sfsi_option_view3.php:153
+msgid "Orange"
+msgstr "Oranje"
+
+#: views/sfsi_option_view8.php:706 views/sfsi_option_view3.php:85
+msgid "Flat"
+msgstr "Plat"
+
+#: views/sfsi_option_view3.php:105
+msgid "Cute"
+msgstr "Schattig"
+
+#: views/sfsi_option_view3.php:116
+msgid "Cubes"
+msgstr "Kubussen"
+
+#: views/sfsi_option_view3.php:125
+msgid "Chrome Blue"
+msgstr "Chroom Blauw"
+
+#: views/sfsi_option_view3.php:133
+msgid "Chrome Grey"
+msgstr "Chrome Grijs"
+
+#: views/sfsi_option_view3.php:141
+msgid "Splash"
+msgstr "Plons"
+
+#: views/sfsi_option_view3.php:55
+msgid "Theme options"
+msgstr "Thema opties"
+
+#: views/sfsi_option_view3.php:62
+msgid "Default"
+msgstr "Standaard"
+
+#: views/sfsi_option_view2.php:558
+msgid "The LinkedIn icon can perform several actions. Pick below which ones it should perform. If you select several options, then users can select what they want to do"
+msgstr "Het LinkedIn icon kan verschillende acties uitvoeren. Kies hieronder welke acties uitgevoerd moeten worden. Als je meerdere opties kiest kunnen de gebruikers kiezen welke actie ze verkiezen."
+
+#: views/sfsi_option_view2.php:567
+msgid "The LinkedIn icon should allow users to..."
+msgstr "Het LinkedIn icon moet mogelijk maken:"
+
+#: views/sfsi_option_view2.php:572
+msgid "Visit my Linkedin page at:"
+msgstr "Bezoek mijn LinkedIn pagina op: "
+
+#: views/sfsi_option_view2.php:581
+msgid "Follow me on Linkedin:"
+msgstr "Volg me op LinkedIn:"
+
+#: views/sfsi_option_view2.php:590
+msgid "Share my page on LinkedIn"
+msgstr "Deel mijn pagina op LinkedIn"
+
+#: views/sfsi_option_view2.php:597
+msgid "Recommend my business or product on Linkedin"
+msgstr "Beveel mijn bedrijf of product aan op LinkedIn"
+
+#: views/sfsi_option_view2.php:602
+msgid "To find your Product or Company ID, you can use their ID lookup tool at"
+msgstr "Om je Product of Bedrijfs ID te vinden, kun je de ID opzoek hulp gebruiken op"
+
+#: views/sfsi_option_view2.php:606
+msgid "You need to be logged in to Linkedin to be able to use it."
+msgstr "Je moet op LinkedIn aangemeld zijn om het te kunnen gebruiken."
+
+#: views/sfsi_option_view2.php:619
+msgid "Please provide the url to your Houzz profile (e.g. http://www.houzz.com/user/your_username)."
+msgstr "Geef de url naar je Houzz profiel (bijv. http://www.houzz.com/user/jouw_gebruikersnaam)."
+
+#: views/sfsi_option_view2.php:815
+msgid "Where do you want this icon to link to?"
+msgstr "Waar moet dit icon naar linken?"
+
+#: views/sfsi_option_view2.php:819
+msgid "Link:"
+msgstr "Link:"
+
+#: views/sfsi_option_view2.php:458
+msgid "User Name"
+msgstr "Gebruikersnaam"
+
+#: views/sfsi_option_view2.php:420
+msgid "The Youtube icon can perform several actions. Pick below which ones it should perform. If you select several options, then users can select what they want to do"
+msgstr "Het Youtube icon kan verschillende acties uitvoeren. Kies hieronder welke acties uitgevoerd moeten worden. Als je meerdere opties kiest kunnen de gebruikers kiezen welke actie ze verkiezen."
+
+#: views/sfsi_option_view2.php:426
+msgid "The youtube icon should allow users to..."
+msgstr "het Youtube icon moet mogelijk maken:"
+
+#: views/sfsi_option_view2.php:430
+msgid "Visit my Youtube page at:"
+msgstr "Bezoek mijn Youtube pagina op: "
+
+#: views/sfsi_option_view2.php:436
+msgid "Subscribe to me on Youtube"
+msgstr "Abonneer op mijn Youtube kanaal"
+
+#: views/sfsi_option_view2.php:463
+msgid "Channel Id"
+msgstr "Kanaal ID"
+
+#: views/sfsi_option_view2.php:469
+msgid "UserName:"
+msgstr "Gebruikersnaam:"
+
+#: views/sfsi_option_view2.php:479
+msgid "Channel Id:"
+msgstr "Kanaal ID:"
+
+#: views/sfsi_option_view2.php:499
+msgid "The Pinterest icon can perform several actions. Pick below which ones it should perform. If you select several options, then users can select what they want to do"
+msgstr "Het Pinterest icon kan verschillende acties uitvoeren. Kies hieronder welke acties uitgevoerd moeten worden. Als je meerdere opties kiest kunnen de gebruikers kiezen welke actie ze verkiezen."
+
+#: views/sfsi_option_view2.php:505
+msgid "The Pinterest icon should allow users to..."
+msgstr "Het Pinterest icon moet mogelijk maken:"
+
+#: views/sfsi_option_view2.php:510
+msgid "Visit my Pinterest page at:"
+msgstr "Bezoek mijn Pinterest pagina op: "
+
+#: views/sfsi_option_view2.php:518
+msgid "Pin my blog on Pinterest (+1)"
+msgstr "Pin mijn blog op Pinterest (+1)"
+
+#: views/sfsi_option_view2.php:539
+msgid "When clicked on, users will get directed to your Instagram page"
+msgstr "Als ze er op klikken worden gebruikers naar je Instagram pagina verwezen"
+
+#: views/sfsi_option_view1.php:445 views/sfsi_option_view1.php:494
+#: views/sfsi_option_view1.php:523 libs/sfsi_Init_JqueryCss.php:61
+msgid "Upload a custom icon if you have other accounts/websites you want to link to."
+msgstr "Upload een aangepast icon als je naar andere accounts of websites wilt linken."
+
+#: views/sfsi_option_view1.php:115 views/sfsi_pop_content.php:352
+msgid "learn more"
+msgstr "lees meer"
+
+#: views/sfsi_option_view4.php:885 views/sfsi_option_view2.php:854
+#: views/sfsi_option_view1.php:699 views/sfsi_option_view5.php:1130
+#: views/sfsi_option_view8.php:935 views/sfsi_option_view6.php:114
+#: views/sfsi_option_view7.php:431 views/sfsi_option_view9.php:584
+#: views/sfsi_option_view3.php:427
+msgid "Collapse area"
+msgstr "Sectie inklappen"
+
+#: views/sfsi_option_view2.php:198
+msgid "When clicked on, users can subscribe via RSS"
+msgstr "Door hier op te klikken kunnen gebruikers zich abonneren via RSS"
+
+#: views/sfsi_option_view2.php:227
+msgid "Please pick which icon type you want to use:"
+msgstr "Kies welk type icons je wil gebruiken:"
+
+#: views/sfsi_option_view2.php:234
+msgid "Email icon"
+msgstr "E-mail icon"
+
+#: views/sfsi_option_view2.php:254
+msgid "provider of the service"
+msgstr "service provider"
+
+#: views/sfsi_option_view2.php:316
+msgid "The facebook icon can perform several actions. Pick below which ones it should perform. If you select several options, then users can select what they want to do"
+msgstr "Het Facebook icon kan verschillende acties uitvoeren. Kies hieronder welke acties uitgevoerd moeten worden. Als je meerdere opties kiest kunnen de gebruikers kiezen welke actie ze verkiezen."
+
+#: views/sfsi_option_view2.php:318 views/sfsi_option_view2.php:371
+#: views/sfsi_option_view2.php:422 views/sfsi_option_view2.php:501
+#: views/sfsi_option_view2.php:560
+msgid "see an example"
+msgstr "zie een voorbeeld"
+
+#: views/sfsi_option_view2.php:322
+msgid "The facebook icon should allow users to..."
+msgstr "Het Facebook icon moet mogelijk maken:"
+
+#: views/sfsi_option_view2.php:329
+msgid "Visit my Facebook page at:"
+msgstr "Bezoek mijn Facebook pagina op: "
+
+#: views/sfsi_option_view2.php:337
+msgid "Like my blog on Facebook (+1)"
+msgstr "“Like” mijn blog op Facebook (+1)"
+
+#: views/sfsi_option_view2.php:345
+msgid "Share my blog with friends (on Facebook)"
+msgstr "Deel mijn blog met vrienden (op Facebook)"
+
+#: views/sfsi_option_view2.php:368
+msgid "The Twitter icon can perform several actions. Pick below which ones it should perform. If you select several options, then users can select what they want to do"
+msgstr "Het Twitter icon kan verschillende acties uitvoeren. Kies hieronder welke acties uitgevoerd moeten worden. Als je meerdere opties kiest kunnen de gebruikers kiezen welke actie ze verkiezen."
+
+#: views/sfsi_option_view2.php:375
+msgid "The Twitter icon should allow users to..."
+msgstr "Het Twitter icon moet mogelijk maken:"
+
+#: views/sfsi_option_view2.php:380
+msgid "Visit me on Twitter:"
+msgstr "Bezoek me op Twitter:"
+
+#: views/sfsi_option_view2.php:389
+msgid "Follow me on Twitter:"
+msgstr "Volg me op Twitter:"
+
+#: views/sfsi_option_view2.php:397
+msgid "Tweet about my page:"
+msgstr "Tweet over mijn pagina:"
+
+#: libs/sfsi_Init_JqueryCss.php:62
+msgid "It depends"
+msgstr "Dat ligt er aan"
+
+#: views/sfsi_option_view1.php:230
+msgid "Show this icon if you have a Pinterest account (and you should set up one if you publish new pictures regularly – that can increase your traffic significantly)."
+msgstr "Toon dit icon als je een Pinterest account hebt (en je moet er een maken als je regelmatig nieuwe beelden publiceert - dat kan je verkeer aanzienlijk doen toenemen)."
+
+#: views/sfsi_option_view1.php:267
+msgid "Show this icon if you have a Houzz account."
+msgstr "Toon dit icon als je een Houzz account hebt."
+
+#: views/sfsi_option_view1.php:269
+msgid "Houzz is the No.1 site & community in the world of architecture and interior design."
+msgstr "Houzz is de belangrijkste community site in de wereld van architectuur en interieurdesign."
+
+#: views/sfsi_option_view2.php:809 views/sfsi_option_view1.php:488
+#: views/sfsi_option_view1.php:515 views/sfsi_option_view5.php:1086
+msgid "Custom"
+msgstr "Aangepast"
+
+#: views/sfsi_option_view1.php:191 views/sfsi_option_view1.php:210
+#: views/sfsi_option_view1.php:229 views/sfsi_option_view1.php:246
+#: views/sfsi_option_view1.php:266 views/sfsi_option_view1.php:292
+#: views/sfsi_option_view1.php:309 views/sfsi_option_view1.php:328
+#: views/sfsi_option_view1.php:345 views/sfsi_option_view1.php:362
+#: views/sfsi_option_view1.php:380 views/sfsi_option_view1.php:493
+#: views/sfsi_option_view1.php:522
+msgid "It depends:"
+msgstr "Dat ligt er aan:"
+
+#: views/sfsi_option_view1.php:192
+msgid "Show this icon if you have a youtube account (and you should set up one if you have video content – that can increase your traffic significantly)."
+msgstr "Toon dit icon als je een Youtube account hebt (en je moet er een maken als je video content hebt - dat kan je verkeer aanzienlijk doen toenemen)."
+
+#: views/sfsi_option_view1.php:211
+msgid "No.1 network for business purposes. Use this icon if you’re a LinkedInner."
+msgstr "Belangrijkste netwerk voor zakelijk gebruik. Gebruik dit icon als je een LinkedInner bent."
+
+#: views/sfsi_option_view1.php:71 views/sfsi_option_view1.php:102
+#: views/sfsi_option_view1.php:139 views/sfsi_option_view1.php:164
+msgid "Strongly recommended:"
+msgstr "Sterk aanbevolen:"
+
+#: views/sfsi_option_view1.php:140
+msgid "Facebook is crucial, esp. for sharing."
+msgstr "Facebook is cruciaal, m.n. voor het delen."
+
+#: views/sfsi_option_view1.php:143
+msgid "Facebook is the giant in the social media world, and even if you don’t have a Facebook account yourself you should display this icon, so that Facebook users can share your site on Facebook."
+msgstr "Facebook is de reus in de social media wereld en zelfs als je geen eigen Facebook account hebt moet je dit icon tonen, zodat Facebook gebruikers je site op Facebook met anderen kunnen delen."
+
+#: views/sfsi_option_view1.php:165
+msgid "Can have a strong promotional effect."
+msgstr "Kan een sterk reclame effect hebben."
+
+#: views/sfsi_option_view1.php:168
+msgid "If you have a Twitter-account then adding this icon is a no-brainer. However, similar as with facebook, even if you don’t have one you should still show this icon so that Twitter-users can share your site."
+msgstr "Als je een Twitter account hebt is het toevoegen van dit icon vanzelfsprekend. Edoch, net als bij Facebook, zelfs als je er geen hebt moet je dit icon nog steeds tonen zodat Twitter gebruikers je site kunnen delen."
+
+#: views/sfsi_option_view1.php:109
+msgid "Remove credit link"
+msgstr "Verwijder credit koppeling"
+
+#: views/sfsi_options_view.php:245 views/sfsi_options_view.php:254
+msgid "here"
+msgstr "hier"
+
+#: views/sfsi_option_view1.php:74
+msgid "RSS is still popular, esp. among the tech-savvy crowd."
+msgstr "RSS is nog steeds populair, vooral bij de wat meer technische gemeenschap."
+
+#: views/sfsi_aboutus.php:2
+msgid "Please visit us at"
+msgstr "Bezoek ons op "
+
+#: views/sfsi_option_view5.php:522 views/sfsi_option_view7.php:399
+#: ultimate_social_media_icons.php:638
+msgid "Check it out"
+msgstr "Bekijk het"
+
+#: views/sfsi_options_view.php:222 libs/sfsi_Init_JqueryCss.php:60
+msgid "Save All Settings"
+msgstr "Alle Instellingen Opslaan"
+
+#: libs/sfsi_plus_subscribe_widget.php:239 libs/sfsi_widget.php:99
+msgid "Title"
+msgstr "Titel"
+
+#: libs/sfsi_Init_JqueryCss.php:59
+msgid "Collapse"
+msgstr "Inklappen"
+
+#: views/sfsi_option_view4.php:880 views/sfsi_option_view2.php:849
+#: views/sfsi_option_view1.php:693 views/sfsi_option_view5.php:1125
+#: views/sfsi_option_view8.php:929 views/sfsi_option_view6.php:109
+#: views/sfsi_option_view7.php:426 views/sfsi_option_view9.php:578
+#: views/sfsi_option_view3.php:422 libs/sfsi_Init_JqueryCss.php:54
+msgid "Save"
+msgstr "Bewaar"
+
+#: js/index.php:2 views/index.php:2 index.php:2
+#: images/icons_theme/black/index.php:2 images/icons_theme/index.php:2
+#: images/icons_theme/blackgrunge/index.php:2
+#: images/icons_theme/black2/index.php:2
+#: images/icons_theme/chrome_grey/index.php:2
+#: images/icons_theme/chrome_blue/index.php:2
+#: images/icons_theme/cool/index.php:2 images/index.php:2 css/index.php:2
+#: css/images/index.php:2 css/jquery-ui-1.10.4/index.php:2
+#: css/jquery-ui-1.10.4/images/index.php:2 libs/controllers/index.php:2
+#: libs/index.php:2 fonts/index.php:2
+msgid "Access Denied"
+msgstr "Toegang Geweigerd"
+
+#: views/sfsi_option_view1.php:83 views/sfsi_option_view1.php:120
+#: views/sfsi_option_view1.php:146 views/sfsi_option_view1.php:172
+#: libs/sfsi_Init_JqueryCss.php:53
+msgid "Read more"
+msgstr "Lees meer"
